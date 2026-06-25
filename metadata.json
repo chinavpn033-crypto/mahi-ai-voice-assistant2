@@ -1,0 +1,6 @@
+{
+  "name": "Mahi AI Voice Assistant",
+  "description": "An immersive, voice-to-voice anime-style AI companion featuring real-time lip sync and tool execution.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
